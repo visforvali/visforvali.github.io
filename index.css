@@ -1,0 +1,305 @@
+@font-face {
+    font-family: "Thai-Dye";
+    src: url("fonts/HFFThaiDye.ttf");
+  }
+
+@font-face {
+    font-family: "Arima";
+    src: url("fonts/ArimaMadurai-Medium.ttf");
+  }
+
+@media screen and (max-height: 450px) {
+    .sidebar {padding-top: 15px;}
+    .sidebar a {font-size: 1.4vw;}
+  }
+
+  body, html {
+    font-family: "Arima";
+    height: 100%;
+    background-color: #EFF4EB;
+    font-size: 1.5vw;
+  }
+
+  .bgimg {
+    background-image: url("img/bg-main.jpg");
+    height: 100%;
+    opacity: 0.75;  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  figure { 
+    width: 55%;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 1em;
+  }
+  
+  figcaption {
+    font-family: "Arima";
+    background-color: #F2F3BF;
+    color: #111;
+    padding: 2px;
+    text-align: left;
+    font-style: normal;
+    font-size: 1.2vw;
+    line-height: 1.5em;
+    height: auto;
+    word-wrap: break-word;
+  }
+  
+  .left {
+    float: left;
+  }
+  
+  .right {
+    float: right;
+  }
+  
+  .caption {
+    font-family: "Thai-Dye";
+    position: absolute;
+    left: 0;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+  }
+
+  .caption span.border {
+    background-color: #000;
+    color: #fff;
+    padding: 18px;
+    font-size: 2vw;
+    letter-spacing: 10px;
+  }
+
+  h2 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-family: "Thai-Dye";
+    color: #111;
+  }
+
+  h3 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font: 1.6vw "Thai-Dye";
+    color: #111;
+  }
+  
+  .dropbtn {
+    font-family: "Thai-Dye";
+    background-color: #EFF4EB;
+    color: #111;
+    padding: 16px;
+    font-size: 1.6vw;
+    cursor: pointer;
+    border: none;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #EFF4EB;
+  }
+
+  .dropdown:hover .dropbtn {
+    background-color: #A81C1C;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #EFF4EB;
+    min-width: 260px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 1.6vw;
+  }
+  
+  .dropdown:hover .dropdown-content {
+      display: block;
+  }
+  
+  #main {
+    transition: margin-left .5s;
+    padding: 16px;
+  }
+
+  .container {
+    display: block;
+    font-family: "Arima";
+    background-color: #f2f3bf;
+    color: #000;
+    position: relative;
+    top: 10%;
+    width: 100%;
+    max-width: 90%;
+    height: 80%;
+    padding: 20px;
+    border-radius: 5px; 
+    overflow: auto;
+    line-height: 1.8em;
+  }
+  
+  .footer {
+    font-family: "Arima";
+    padding: 10px;
+    background-color: #EFF4EB;
+    overflow: hidden;
+  }
+
+  hr {
+    height: .75px;
+    background-color: #888;
+    border: none;
+  }
+
+  a {
+    color: #B31414;
+    position: relative;
+    text-decoration: underline;
+    display: inline-block;  
+  }
+
+  a:hover {
+    color: #D81818;
+    position: relative;
+    text-decoration: underline;
+    display: inline-block;
+  }
+
+
+a.nav {
+    color: #B31414;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;  
+  }
+
+a.nav:hover {
+    color: #D81818;
+    position: relative;
+    text-decoration: underline;
+    display: inline-block;
+  }
+
+
+ol.a {
+    list-style-type: lower-alpha;
+  }
+
+.tab {
+    text-indent: 3.0cm;
+  }
+
+.apa {
+    padding-left: 36px;
+    text-indent: -36px;
+}
+
+
+.defBtn {
+  font-family: "Arima";
+  font-weight: bolder;
+  background-color: #f2f3bf;
+  color: #000;
+  padding: 0px;
+  font-size: 1.6vw;
+  cursor: pointer;
+  border: 0px;
+  pointer-events: all;
+}
+
+a:target {
+  font-family: "Arima";
+  color: #B31414;
+  background: #F2F3BF;
+}
+
+.divider{
+  width:80px;
+  height:auto;
+  display:inline-block;
+}
+
+.row { 
+  min-width: 100%;
+  text-align: center; 
+}
+
+
+  
+  /* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #A81C1C; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #da0f0f; 
+}
+
+
+/*Marginal Notes on Desktop*/
+aside, .aside {
+  display: inline;
+  float: right;
+  position: relative;
+  width: 22vw;
+  margin-right: -23vw;
+  font-size: 1.1vw;
+  color:rgb(4, 64, 133);
+  line-height: 1.6em;
+}
+
+/*Marginal Notes on mobile*/
+@media (max-width: 768px) {
+  aside, .aside {
+    display: block;
+    float: none;
+    margin: 5% 10% 5% 10%;
+    width: 80%;
+    font-size: 1vw;
+    color:blue;
+    line-height: 1.6em;
+  }
+}
+
+.margin {
+  margin-right: 28%;
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.divider {
+  width: 1em;
+}
