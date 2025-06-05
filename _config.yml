@@ -3,7 +3,7 @@ url: #Your url here
 baseurl: /project
 
 # variables
-name: v is for vali
+name: Your Site Name
 description: Your description here
 google_verification: null
 
@@ -23,5 +23,3 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable : true
-
-theme: jekyll-theme-windows95
