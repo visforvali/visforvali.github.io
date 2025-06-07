@@ -3,7 +3,7 @@
 #google_analytics: UA-NNNNNNNN-N
 
 title: v is for வலி
-email: dlsite.com-83jd_p0.mold@alias.visforvali.com
+# email: dlsite.com-83jd_p0.mold@alias.visforvali.com
 description: >- # this means to ignore newlines until "baseurl:"
   Repository for interdisciplinary, transgenre, interactive, digital, multimodal compositions, including my webtext dissertation, tiny games, interactive narrative, and other audiovisual content.
 
@@ -11,7 +11,7 @@ header_pages:
   - index.md
   - about.md
 
-footer: '<a href="https://vyshalimanivannan.com/">வித்தியாசம்</a>'
+footer: 'site at <a href="https://vyshalimanivannan.com/">வித்தியாசம்</a>'
 
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: false # true or false (default)

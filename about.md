@@ -1,5 +1,5 @@
 ---
-title: /vyshali
+title: /about
 layout: home
 permalink: /about
 ---
