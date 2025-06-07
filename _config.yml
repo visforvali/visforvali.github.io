@@ -10,8 +10,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 header_pages:
   - index.md
   - about.md
+  - tinygames.md
+  - selfhost.md
 
-footer: 'site at <a href="https://vyshalimanivannan.com/">வித்தியாசம்</a>'
+footer: 'site at <a href="https://vyshalimanivannan.com/">வித்தியாசம்</a> /<a href="https://orcid.org/0000-0002-2853-0279">ORCID</a>'
 
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: false # true or false (default)
