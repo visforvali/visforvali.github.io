@@ -4,18 +4,6 @@ layout: home
 permalink: /
 ---
 
-# No Branches but Roots on the Tree That Walks
+# init 6
 
-The earliest linguistic confusion I consciously remember was banyan, which seemed to simultaneously denote a tree with special medicinal and spiritual properties and a man's undershirt. 
-
-I built my associations 
-
-The banyan does not walk so much as extend itself, rhizomatically, horizontally, indefinitely. 
-
-This repository is for everything I do that doesn't go anywhere else or can't be put anywhere else, for reasons of professional "legitimacy" or hosting bandwidth: 
-
- interdisciplinary, transgenre, interactive, digital, multimodal compositions, including my webtext dissertation, tiny games, interactive narrative, and other audiovisual content. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Tinygames 
+The writer syncs her drives. Filesystem check cleans up after herself. _Initialize reboot_. She slows, hangs. Rebuilds an index. Remaps locations. The banyan is a tree whose branches are root systems. It walks, or does not walk so much as extend itself indefinitely. Out of a kernel issues {a: the world | b: a fatal exception | c: the right answer | d: a repository for everything that defies categorization or professional legitimacy&mdash;interactive fictocritical narrative; experimental tiny games; excerpts from my dissertation webtext; transgenre, interdisciplinary, multimodal compositions; work-in-progress&mdash;or can't be put elsewhere for reasons of bandwidth.}. Corruption detected, the reboot hangs. Fsck. Fsck. If the world is not all banyan it is because it gatekeeps chance. Like automatons, we have forgotten what the middle distance is for, but I have already gone on too long. &mdash;_V. Manivannan, 2025_
