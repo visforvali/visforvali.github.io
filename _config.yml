@@ -13,7 +13,7 @@ header_pages:
   - selfhost.md
   - teaching.md 
 
-footer: '/<a href="https://vyshalimanivannan.com/">website</a> /<a href="https://orcid.org/0000-0002-2853-0279">ORCID</a>'
+footer: 'read more on my <a href="https://vyshalimanivannan.com/">website</a>'
 
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: false # true or false (default)
