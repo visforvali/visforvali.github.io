@@ -4,3 +4,6 @@ layout: default
 permalink: /tinygames
 ---
 
+# Tinygames
+
+Test
