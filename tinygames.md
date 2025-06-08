@@ -1,7 +1,7 @@
 ---
 title: /tinygames
 layout: default
-permalink: /tinygames
+permalink: /tiny-games
 ---
 
 # Tinygames
