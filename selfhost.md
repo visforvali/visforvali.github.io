@@ -1,5 +1,5 @@
 ---
-title: /about
+title: /self-hosted
 layout: default
 permalink: /self-hosted
 ---
