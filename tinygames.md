@@ -1,6 +1,6 @@
 ---
 title: /tinygames
-layout: default
+layout: page
 permalink: /tiny-games
 ---
 

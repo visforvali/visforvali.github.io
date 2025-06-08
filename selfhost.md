@@ -1,6 +1,6 @@
 ---
 title: /self-hosted
-layout: default
+layout: page
 permalink: /self-hosted
 ---
 
