@@ -20,5 +20,4 @@ permalink: /diss
 
 In loving memory of my <span lang="ta">Appa</span>, who did not live to see this work finished, and who taught me <span lang="ta">அறிவுடையார் எல்லா முடையார் (arivudaiyar ella mudaiyar)</span>: that someone who possesses knowledge possesses everything. 
 
----
-read /<a href="https://visforvali.github.io/bmactp/" target="_blank">dissertation</a> /<a href="https://vyshalimanivannan.com/public-defense/" target="_blank">access copy of public pres</a>
+<p align="right">read /<a href="https://visforvali.github.io/bmactp/" target="_blank">dissertation</a> /<a href="https://vyshalimanivannan.com/public-defense/" target="_blank">access copy of public pres</a></p>
