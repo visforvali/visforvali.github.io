@@ -1,5 +1,5 @@
 ---
-title: /visforvali
+title: /வலி
 layout: home
 permalink: /
 ---

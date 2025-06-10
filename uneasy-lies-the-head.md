@@ -12,4 +12,4 @@ Content note: Rape culture, extrajudicial hanging, screaming
 \
 _Story Description_: You are Radhika Mitra, an Indian woman who lives and works in Delhi as the editor-in-chief of _The World Daily_, and presently the reportage and testimony about a string of local rapes awaits your review and approval before it goes to press. You have been warned numerous times. You have received threats. Your family and friends are supportive but don't quite understand why this issue is so important to you. "Rape is the baggage of being a woman," they say. You want to change this view, desperately. You also want to protect those who serve you. You also don't want to die...
 
-<a href="" target="_blank">Click to play</a>. For audio effects, make sure your volume is on.
+<a href="https://visforvali.github.io/tinygames/uneasy_lies_the_head/play.html" target="_blank">Click to play</a>. For audio effects, make sure your volume is on.
