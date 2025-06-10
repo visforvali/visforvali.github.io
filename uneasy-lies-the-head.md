@@ -1,5 +1,5 @@
 ---
-title: /uneasy lies the head
+title: Uneasy Lies the Head
 layout: page
 permalink: /uneasy-lies-the-head
 ---
