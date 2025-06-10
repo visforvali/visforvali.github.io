@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 header_pages:
   - index.md
   - about.md
-  - tinygames.md
+  - gamedev.md
   - selfhost.md
   - diss.md
 
