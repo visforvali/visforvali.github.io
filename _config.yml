@@ -10,7 +10,7 @@ header_pages:
   - index.md
   - about.md
   - gamedev.md
-  - selfhost.md
+  - pubs.md
   - diss.md
 
 footer: 'read more on my <a href="https://vyshalimanivannan.com/">website</a>'
