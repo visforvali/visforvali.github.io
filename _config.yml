@@ -13,7 +13,7 @@ header_pages:
   - diss.md
   - pubs.md
 
-footer: 'read more on my <a href="https://vyshalimanivannan.com/">website</a>'
+footer: 'more at <a href="https://vyshalimanivannan.com/" target="_blank">வித்தியாசம்</a>'
 
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: false # true or false (default)

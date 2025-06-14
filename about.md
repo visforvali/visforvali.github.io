@@ -6,7 +6,7 @@ permalink: /about
 
 # /about
 
-<span lang="ta">வணக்கம் (vanakkam | welcome)</span>! I'm @visforvali (she/her). I'm an Eelam Tamil American chronically ill writer, scholar, artist, and designer. My work is interdisciplinary, multimodal, transgenre, and open access, emphasizing the culturally specific nature of chronic pain and fatigue while using anomalously embodied composition to enact it. I'm currently an Assistant Professor in the Dept. of English, Writing, and Cultural Studies at Pace University – Pleasantville (PLV) and director of the PLV Writing-Enhanced Course (WEC) program. I received my Ph.D. in Communication, Information, and Media from Rutgers University and my M.F.A. in Creative Writing – Fiction from Columbia University.
+<span lang="ta">வணக்கம் (vanakkam | welcome)</span>! I'm visforvali (she/her). I'm an Eelam Tamil American chronically ill writer, scholar, artist, and designer. My work is interdisciplinary, multimodal, transgenre, and open access, emphasizing the culturally specific nature of chronic pain and fatigue while using anomalously embodied composition to enact it. I'm currently an Assistant Professor in the Dept. of English, Writing, and Cultural Studies at Pace University – Pleasantville (PLV) and director of the PLV Writing-Enhanced Course (WEC) program. I received my Ph.D. in Communication, Information, and Media from Rutgers University and my M.F.A. in Creative Writing – Fiction from Columbia University.
 
 # /this site
 

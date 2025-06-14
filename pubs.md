@@ -1,11 +1,10 @@
 ---
-title: /self-hosted pubs
+title: /selfhost
 layout: page
-permalink: /self-hosted pubs
+permalink: /selfhost
 ---
 
 # /selfhost
 
-A collection of links to webtexts published in journals that couldn't host them locally:
-
+Below is a collection of links to webtexts published in journals that couldn't host them locally, listed in reverse chronological order.
 
