@@ -4,7 +4,7 @@ layout: page
 permalink: /gamedev
 ---
 
-# Gamedev
+# /gamedev
 
 Below is a list of games written for scholarly, creative, pedagogical, or activist reasons, listed in reverse chronological order.
 
@@ -20,6 +20,24 @@ _Content tags_: Academic ableism, chronic pain and fatigue, diaspora, digital co
 _Inventio_: Composed with Bitsy using kolam rhetoric for a webtext WIP monograph and excerpted for a presentation delivered at CCCC 2024.
 
 _Summary_: Reflections on engaging in diasporic-disabled composition practice as an Eelam Tamil American scholar in academia.
+
+## <a href="bmactp/adi/theater.html" target="_blank">There Is a Reason Why They Call It a Theater</a>
+&#169; 2022
+
+_Content tags_: Academic ableism, chronic pain and fatigue, diasporic-disabled composition, digital rhetoric, intergenerational trauma, medical gaslighting, near-death experience, Tamil genocide
+
+_Inventio_: Freeware visual novel composed with the ren'Py visual novel engine for Microsoft Windows and macOS for my dissertation. This creative nonfiction game is a prototype of the fictocritical autoethnography I wanted to create but ultimately chose not to out of concern that fictional components would detract from the text's theoretical rigor.
+
+_Summary_: You are Vyshali, a twentysomething Eelam Tamil American woman pursuing an M.F.A at Columbia University who suddenly experiences a rapid decline in health and abrupt, nomadic, constant pain and relentless fatigue, leading her into strange, troubling dreams and forcing her to relearn what she thought she knew about society, medicine, and herself as she searches for answers.
+
+## <a href="bmactp/misability/playlist.html" target="_blank">What the Nerves Register We Cannot Say</a>
+&#169; 2022
+
+_Content tags_: 
+
+_Inventio_: 
+
+_Summary_: 
 
 ## <a href="tinygames/selling_upon_trust/play.html">Selling Upon Trust</a>
 &#169; 2016 
