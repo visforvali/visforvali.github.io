@@ -6,14 +6,11 @@ permalink: /gamedev
 
 # /gamedev
 
-Below is a list of games written for scholarly, creative, pedagogical, or activist reasons, listed in reverse chronological order.
-
-These games aren't officially published as standalone pieces (refer to self-hosted publications for those) &mdash; and most either will not be through traditional academic routes or are previews of longer works-in-progress. 
-
-Gameplay ranges from minutes to as long as you feel like playing.
+Below is a list of games and webtexts written for scholarly, creative, pedagogical, or activist reasons, listed in reverse chronological order. These games aren't officially published as standalone pieces (refer to <a href="selfhost.html">/selfhost</a> for published webtexts housed here) and most either will not be through traditional academic routes or are components of longer WIPs I intend to publish someday.
 
 ## <a href="tinygames/if_to_move_the_soul_a_writer/play.html" target="_blank">If to Move a Soul, the Writer</a>
 &#169; 2024
+Average Session: 30 min
 
 _Content tags_: 16-bit tinygame, academic ableism, chronic pain and fatigue, diaspora, digital composition, Oulipo 
 
@@ -23,6 +20,7 @@ _Summary_: Reflections on engaging in diasporic-disabled composition practice as
 
 ## <a href="bmactp/adi/theater.html" target="_blank">There Is a Reason Why They Call It a Theater</a>
 &#169; 2022
+Average Session: 2 hrs
 
 _Content tags_: Academic ableism, chronic pain and fatigue, diasporic-disabled composition, digital rhetoric, intergenerational trauma, medical gaslighting, near-death experience, Tamil genocide, visual novel
 
@@ -32,6 +30,7 @@ _Summary_: You are Vyshali, a twentysomething Eelam Tamil American woman pursuin
 
 ## <a href="bmactp/misability/playlist.html" target="_blank">What the Nerves Register We Cannot Say</a>
 &#169; 2022
+Audio Duration: 5 hrs
 
 _Content tags_: Chronic pain, found poem, music playlist
 
@@ -39,9 +38,9 @@ _Inventio_: Found poem and playlist of 72 songs I frequently listen to, dance to
 
 _Summary_: Audio analgesia reduces nociception pertaining to acute pain but does not alter perceptions of chronic pain intensity (Linneman et al., 2015); however, fibromyalgic subjects felt they had more control over their pain while deliberately listening to music, especially if they listened to music frequently. Compiling a specific playlist for the purpose of deliberate listening &mdash; and composing found poetry from it &mdash; transforms familiar artifacts into cumulative signifiers for fibromyalgic subjects, as an analgesic meaning-making process.
 
-
 ## <a href="tinygames/selling_upon_trust/play.html">Selling Upon Trust</a>
 &#169; 2016 
+Average Session: 30 min
 
 _Content tags_: Fabrication, fabulation, gunfire sounds, interactive fiction, journalistic ethics
 
@@ -51,6 +50,7 @@ _Summary_: You are Ali Cornwall, a journalist who is relatively young for the pr
 
 ## <a href="tinygames/uneasy_lies_the_head/play.html" target="_blank">Uneasy Lies the Head</a>
 &#169; 2016 
+Average Session: 30 min
 
 _Content tags_: Arson, auditory distress, extrajudicial execution, interactive fiction, murder, rape culture
 
