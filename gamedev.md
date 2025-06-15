@@ -17,7 +17,7 @@ Gameplay ranges from minutes to as long as you feel like playing.
 
 _Content tags_: 16-bit tinygame, academic ableism, chronic pain and fatigue, diaspora, digital composition, Oulipo 
 
-_Inventio_: Composed with Bitsy using kolam rhetoric for a webtext WIP monograph and excerpted for a presentation delivered at CCCC 2024.
+_Inventio_: Composed with Bitsy using kolam rhetoric for a webtext WIP monograph and excerpted for a presentation delivered at CCCC 2024. It wasn't possible to create a <span lang="ta">pulli</span> (dot) grid with Bitsy, but the white dots gesture at a structure that becomes additionally filled out when the player walks over the blank spaces. The looping pattern that reveals itself, formed by a continuous line, approximates a <span lang="ta">kolam</span> design.
 
 _Summary_: Reflections on engaging in diasporic-disabled composition practice as an Eelam Tamil American scholar in academia.
 
