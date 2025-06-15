@@ -44,8 +44,7 @@ _Inventio_: Composed with Twine during a 12-hr gamejam to introduce students in 
 
 _Summary_: You are Ali Cornwall, a journalist who is relatively young for the profession but embodies success. You graduated from columnist at _The Daily Mail_ to stringer for Reuters to West Africa war correspondent at the BBC. Your fearlessness in the field, stringent fact-checking, incredibly high standards, and natural storytelling ability has helped your career soar, as viewers can emotionally connect with you, recently landing you the coveted position of anchor for BBC London. "Ali Cornwall" is now a household name, and you think you want for nothing. But there's new talent circulating, and you can't help but hear about Giles Hall, the man who filled your shoes as West Africa war correspondent, proving himself through his reporting on Ebola, Sierra Leone, The Gambia. Nothing is certain in this business. And with your upcoming broadcast, everything may be about to change...
 
-## <a href="tinygames/uneasy_lies_the_head/play.html" target="_blank">Uneasy Lies the Head</a>
-&#169; 2016 
+## <a href="tinygames/uneasy_lies_the_head/play.html" target="_blank">Uneasy Lies the Head</a> &#169; 2016 
 Avg. Session: 20 min
 
 _Content tags_: Arson, auditory distress, extrajudicial execution, interactive fiction, murder, rape culture
