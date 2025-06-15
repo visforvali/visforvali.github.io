@@ -6,7 +6,7 @@ permalink: /diss
 
 # /diss
 
-## <a href="" target="_blank">Manivannan, V. (2022). This is about the body, the mind, the academy, the clinic, time, and pain [Doctoral Dissertation, Rutgers University].</a> &#169; 2022
+## <a href="" target="_blank">This is About the Body, the Mind, the Academy, the Clinic, Time, and Pain</a> &#169; 2022
 <a href="https://vyshalimanivannan.com/public-defense/" target="_blank">Public Presentation</a>
 
 _Content tags_: Academic ableism, chronic pain and fatigue, diasporic-disabled composition, digital rhetoric, intergenerational trauma, medical gaslighting, near-death experience, Tamil genocide
