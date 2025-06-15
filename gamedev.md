@@ -6,11 +6,10 @@ permalink: /gamedev
 
 # /gamedev
 
-Below is a list of games and webtexts written for scholarly, creative, pedagogical, or activist reasons, listed in reverse chronological order. These games aren't officially published as standalone pieces (refer to <a href="selfhost.html">/selfhost</a> for published webtexts housed here) and most either will not be through traditional academic routes or are components of longer WIPs I intend to publish someday.
+Below is a list of unpublished games and webtexts written for scholarly, creative, pedagogical, or activist reasons, listed in reverse chronological order (refer to <a href="selfhost.html">/selfhost</a> for published webtexts housed here). I don't plan to publish these texts as standalone pieces. Most are "teasers" of longer WIPs I do intend to publish someday.
 
-## <a href="tinygames/if_to_move_the_soul_a_writer/play.html" target="_blank">If to Move a Soul, the Writer</a>
-&#169; 2024
-Average Session: 30 min
+## <a href="tinygames/if_to_move_the_soul_a_writer/play.html" target="_blank">If to Move a Soul, the Writer</a> &#169; 2024
+Avg. Session: 30 min
 
 _Content tags_: 16-bit tinygame, academic ableism, chronic pain and fatigue, diaspora, digital composition, Oulipo 
 
@@ -18,9 +17,8 @@ _Inventio_: Composed with Bitsy using kolam rhetoric for a webtext WIP monograph
 
 _Summary_: Reflections on engaging in diasporic-disabled composition practice as an Eelam Tamil American scholar in academia.
 
-## <a href="bmactp/adi/theater.html" target="_blank">There Is a Reason Why They Call It a Theater</a>
-&#169; 2022
-Average Session: 2 hrs
+## <a href="bmactp/adi/theater.html" target="_blank">There Is a Reason Why They Call It a Theater</a> &#169; 2022
+Avg. Session: 2 hrs
 
 _Content tags_: Academic ableism, chronic pain and fatigue, diasporic-disabled composition, digital rhetoric, intergenerational trauma, medical gaslighting, near-death experience, Tamil genocide, visual novel
 
@@ -28,9 +26,8 @@ _Inventio_: Freeware visual novel composed with the ren'Py visual novel engine f
 
 _Summary_: You are Vyshali, a twentysomething Eelam Tamil American woman pursuing an M.F.A at Columbia University who suddenly experiences a rapid decline in health and abrupt, nomadic, constant pain and relentless fatigue, leading her into strange, troubling dreams and forcing her to relearn what she thought she knew about society, medicine, and herself as she searches for answers.
 
-## <a href="bmactp/misability/playlist.html" target="_blank">What the Nerves Register We Cannot Say</a>
-&#169; 2022
-Audio Duration: 5 hrs
+## <a href="bmactp/misability/playlist.html" target="_blank">What the Nerves Register We Cannot Say</a> &#169; 2022
+Avg. Session: 5 hrs
 
 _Content tags_: Chronic pain, found poem, music playlist
 
@@ -38,9 +35,8 @@ _Inventio_: Found poem and playlist of 72 songs I frequently listen to, dance to
 
 _Summary_: Audio analgesia reduces nociception pertaining to acute pain but does not alter perceptions of chronic pain intensity (Linneman et al., 2015); however, fibromyalgic subjects felt they had more control over their pain while deliberately listening to music, especially if they listened to music frequently. Compiling a specific playlist for the purpose of deliberate listening &mdash; and composing found poetry from it &mdash; transforms familiar artifacts into cumulative signifiers for fibromyalgic subjects, as an analgesic meaning-making process.
 
-## <a href="tinygames/selling_upon_trust/play.html">Selling Upon Trust</a>
-&#169; 2016 
-Average Session: 30 min
+## <a href="tinygames/selling_upon_trust/play.html">Selling Upon Trust</a> &#169; 2016 
+Avg. Session: 20 min
 
 _Content tags_: Fabrication, fabulation, gunfire sounds, interactive fiction, journalistic ethics
 
@@ -50,7 +46,7 @@ _Summary_: You are Ali Cornwall, a journalist who is relatively young for the pr
 
 ## <a href="tinygames/uneasy_lies_the_head/play.html" target="_blank">Uneasy Lies the Head</a>
 &#169; 2016 
-Average Session: 30 min
+Avg. Session: 20 min
 
 _Content tags_: Arson, auditory distress, extrajudicial execution, interactive fiction, murder, rape culture
 
