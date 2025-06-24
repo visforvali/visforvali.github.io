@@ -11,17 +11,17 @@
 
   {%- if site.listen_for_clients_preferred_style -%}
     <link rel="stylesheet" type="text/css" href="{{ "/assets/main.css" | relative_url }}">
-    <link rel="stylesheet" type="image/png" href="..\favicon.png">
+    <link rel="stylesheet" type="image/x-icon" href="favicon.ico">
   {%- else -%}
     {%- if site.style == 'light' -%}
       <link rel="stylesheet" type="text/css" href="{{ "/assets/main-light.css" | relative_url }}">
-      <link rel="stylesheet" type="image/png" href="..\favicon.png">
+      <link rel="stylesheet" type="image/x-icon" href="favicon.ico">
     {%- elsif site.style == 'hacker' -%}
       <link rel="stylesheet" type="text/css" href="{{ "/assets/main-hacker.css" | relative_url }}">
-      <link rel="stylesheet" type="image/png" href="..\favicon.png">
+      <link rel="stylesheet" type="image/x-icon" href="favicon.ico">
     {%- else -%}
       <link rel="stylesheet" type="text/css" href="{{ "/assets/main-dark.css" | relative_url }}">
-      <link rel="stylesheet" type="image/png" href="..\favicon.png">
+      <link rel="stylesheet" type="image/x-icon" href="favicon.ico">
     {%- endif -%}
   {%- endif -%}
 
