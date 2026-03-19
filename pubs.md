@@ -8,8 +8,8 @@ permalink: /selfhost
 
 Below is a collection of links to self-hosted games and webtexts published in journals that couldn't host them locally, listed in reverse chronological order. (For an excerpt of the webtext version of my dissertation, go to <a href="diss.html">/diss</a>.)
 
-## <a href="peitho-archive/entrance.html" target="_blank">Pain and Relief Come of Themselves</a> &#169; 2022
-Self-hosted
+## <a href="peitho-archive/entrance.html" target="_blank">Pain and Relief Come of Themselves</a> &#169; 2025
+Self-hosted and published in <i>Peitho</i>
 
 _Content tags_: Archives of displacement, chronic pain and fatigue, fictocriticism, hope, intergenerational trauma, photo gallery, South Asian parables, Tamil genocide
 
@@ -17,8 +17,8 @@ _Inventio_: Composed with HTML5 and Bootstrap 5 for a webtext WIP monograph and 
 
 _Summary_: In composing an archive that records remembrance, resistance, resilience, and adaptability from the ephemera of Eelam Tamil diasporic-disabled life in the U.S., I attempt to resist the violent erasure and rewriting of Eelam Tamil history and culture and of my disabled self-knowledge and oracular instinct. This archive contains a selection of quotidian cultural and medical objects and photographs that my family and I instinctively conserved &mdash; potentially for how they precipitate thought, feeling, and memory and provide opportunities for remembering the past and forging hopeful futurities. These objects map my thoughts, feelings, and associations about cultural identity, collective trauma, chronic pain, and radical possibility. The attendant parables attempt to recover a culturally specific past through culturally specific storytelling, without demystifying their inclusions and juxtapositions, flattening affect, or insisting on empirically verifiable truth. This archive is designed from below, meant to be read, felt, and deciphered from below, in solidarity with the familial archivists, oral historians, chronically ill patients, and other culture workers who must extensively self-document and for whom archiving is an expression of resistance and resilience.
 
-## <a href="" target="_blank">perimortem (in theoretical rigor)</a> &#169; 2025
-Self-hosted and hosted by publisher
+## <a href="https://visforvali.github.io/tinygames/perimortem/Release/index.html" target="_blank">perimortem (in theoretical rigor)</a> &#169; 2025
+Self-hosted and hosted by <a href="https://kairos.technorhetoric.net/29.2/inventio/manivannan/index.html" target="_blank"><i>Kairos</i></a>
 
 _Content tags_: Ableism, armed conflict, bodily fluids, bombs, cutting, genocide, intergenerational trauma, racism, sexual violence, suicidal ideation, torture
 
